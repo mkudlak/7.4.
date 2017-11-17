@@ -1,6 +1,7 @@
 body {
 	background: rgb(181, 212, 211);
 	text-align: center;
+	display: flex;
 }
 h1 {
 		font-family: 'Pacifico', cursive;
